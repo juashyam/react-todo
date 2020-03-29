@@ -16,7 +16,9 @@ Inside the React project directory, go to the **src** folder and edit a file nam
 
 ## Available Scripts
 
-In the project directory, you can run:
+### `yarn install`
+
+Install all dependencies for a project.
 
 ### `yarn start`
 
